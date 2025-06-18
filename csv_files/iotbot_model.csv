@@ -1,0 +1,6 @@
+Traffic,Detected %,No Detected %,Detected Samples,No Detected Samples
+Normal,99.05660377358491,0.9433962264150944,105,1
+ddos,100.0,0.0,385282,0
+theft,100.0,0.0,16,0
+Reconnaissance,99.96959931902475,0.030400680975253846,16442,5
+DoS,100.0,0.0,330097,0
